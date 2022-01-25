@@ -1,5 +1,12 @@
 # Test
 
+# Header 1
+## Header 2
+
+*Plain text*
+
+Plain text
+
 I'm going to edit the information
 
 This line was added by JaviMaciasG.
